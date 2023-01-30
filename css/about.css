@@ -377,14 +377,14 @@ nav.second-nav .container nav >ul.alt li:nth-child(3)::after{
 .srv .container .boxes .item,
 .srv .container .boxes .item i,
 .srv .container .boxes .item p{
-    transition: .5s;
-    -webkit-transition: .5s;
-    -moz-transition: .5s;
-    -ms-transition: .5s;
-    -o-transition: .5s;
+    transition: .8s;
+    -webkit-transition: .8s;
+    -moz-transition: .8s;
+    -ms-transition: .8s;
+    -o-transition: .8s;
 }
 .srv .container .boxes .item:hover i{
-    box-shadow: 0px 0px 0 170px var(--green-color);
+    box-shadow: 0px 0px 0 180px var(--green-color);
     background-color: var(--green-color);
     color: var(--white-color);
 }
