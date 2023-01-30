@@ -384,7 +384,7 @@ nav.second-nav .container nav >ul.alt li:nth-child(3)::after{
     -o-transition: .8s;
 }
 .srv .container .boxes .item:hover i{
-    box-shadow: 0px 0px 0 190px var(--green-color);
+    box-shadow: 0px 0px 0 200px var(--green-color);
     background-color: var(--green-color);
     color: var(--white-color);
 }
